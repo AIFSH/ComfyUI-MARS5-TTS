@@ -1,0 +1,15 @@
+[project]
+name = "comfyui-mars5-tts"
+description = "a comfyui custom node for [a/MARS5-TTS](https://github.com/Camb-ai/MARS5-TTS)"
+version = "1.0.0"
+license = "LICENSE"
+dependencies = ["numpy==1.26.4", "regex", "librosa", "vocos", "encodec", "safetensors", "soundfile"]
+
+[project.urls]
+Repository = "https://github.com/AIFSH/ComfyUI-MARS5-TTS"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-MARS5-TTS"
+Icon = ""
