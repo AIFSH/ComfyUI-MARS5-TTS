@@ -6,9 +6,7 @@ a comfyui custom node for [MARS5-TTS](https://github.com/Camb-ai/MARS5-TTS)
 input
 - [ref_audio](./doc/trump.MP3)
 
-<frame>
-<audio controls src="./doc/trump.MP3?raw=true"></audio>
-</frame>
+https://github.com/AIFSH/ComfyUI-MARS5-TTS/assets/149982694/4e85b99d-4472-482f-b520-e63592f3c4a2
 
 -  reference text
 
@@ -17,9 +15,8 @@ we're going to make America great again. we're a failing nation right now. we're
 ```
 output
 - [tts_output_audio](./doc/mars5_1719705960726329200.wav)
-
-
-<audio controls src="./doc/mars5_1719705960726329200.wav?raw=true"></audio>
+  
+https://github.com/AIFSH/ComfyUI-MARS5-TTS/assets/149982694/ce64c69e-4db8-47b1-ae31-9d173d772047
 
 ## How to use
 ```
