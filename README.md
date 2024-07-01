@@ -28,7 +28,7 @@ pip install -r requirements.txt
 `weights` will be downloaded from huggingface 
 
 ## Tutorial
-[Demo]()
+【MARS5-TTS | ComfyUI插件来了，会是英文版的SeedTTS开源平替吗？-哔哩哔哩】 https://b23.tv/etjjwVd
 
 ## Thanks
 [MARS5-TTS](https://github.com/Camb-ai/MARS5-TTS)
