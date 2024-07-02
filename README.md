@@ -30,5 +30,7 @@ pip install -r requirements.txt
 ## Tutorial
 【MARS5-TTS | ComfyUI插件来了，会是英文版的SeedTTS开源平替吗？-哔哩哔哩】 https://b23.tv/etjjwVd
 
+- QQ群：852228202
+
 ## Thanks
 [MARS5-TTS](https://github.com/Camb-ai/MARS5-TTS)
